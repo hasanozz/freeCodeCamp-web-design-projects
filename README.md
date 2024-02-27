@@ -1,7 +1,7 @@
 # freeCodeCamp-web-design-projects
 
 
-I follow freeCodeCamp responsive web desing tutorial and these are certification projects.
+I follow freeCodeCamp responsive web desing tutorial and these are my certification projects.
 
 
 ### You can use the links below to see the projects
